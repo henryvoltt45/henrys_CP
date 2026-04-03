@@ -1,13 +1,17 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    int luas_kandang = 12;
-    while (luas_kandang <=3) {
-        luas_kandang += 7;
-        cout << luas_kandang << endl;
-        luas_kandang++ ;
-
-
+int rex(int hapinnes) {
+    int justFriend;
+    if (hapinnes + 5 > 10) {
+        justFriend = 10;
     }
+
+    return justFriend + hapinnes;
+}
+
+int main() {
+    int hasil = rex(7);
+    cout << hasil << endl;
+    return 0;
 }
