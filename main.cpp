@@ -2,12 +2,9 @@
 using namespace std;
 
 int main() {
-    int n = 47;
-    while (true) {
-        if (n == 0) {
-            break;
-        }
-        cout << "*";
-        n = n / 10;
+    for (int i = 0; i < 3; i++) { // ini baris
+        for(int j = 0; j < 5; j++){ // ini kolom
+            cout << "5";
+        } cout << endl;
     }
 }
