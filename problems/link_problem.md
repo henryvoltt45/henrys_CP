@@ -15,3 +15,6 @@ https://codeforces.com/contest/2104/problem/A
 
 problem 2185A:
 https://codeforces.com/problemset/problem/2185/A
+
+problem 1482A:
+https://codeforces.com/problemset/problem/1482/A
