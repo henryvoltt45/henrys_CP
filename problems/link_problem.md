@@ -18,3 +18,9 @@ https://codeforces.com/problemset/problem/2185/A
 
 problem 1482A:
 https://codeforces.com/problemset/problem/1482/A
+
+problem 1452A:
+https://codeforces.com/problemset/problem/1452/A
+
+problem 2123A:
+https://codeforces.com/problemset/problem/2123/A
