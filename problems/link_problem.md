@@ -24,3 +24,6 @@ https://codeforces.com/problemset/problem/1452/A
 
 problem 2123A:
 https://codeforces.com/problemset/problem/2123/A
+
+problem 1977A:
+https://codeforces.com/problemset/problem/1977/A
