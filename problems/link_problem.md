@@ -30,3 +30,6 @@ https://codeforces.com/problemset/problem/1977/A
 
 problem 1582A:
 https://codeforces.com/problemset/problem/1582/A
+
+problem 47A:
+https://codeforces.com/problemset/problem/47/A
