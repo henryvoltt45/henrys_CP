@@ -33,3 +33,6 @@ https://codeforces.com/problemset/problem/1582/A
 
 problem 47A:
 https://codeforces.com/problemset/problem/47/A
+
+problem 2070:
+https://codeforces.com/contest/2070/problem/A
