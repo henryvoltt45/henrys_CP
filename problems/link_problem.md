@@ -36,3 +36,9 @@ https://codeforces.com/problemset/problem/47/A
 
 problem 2070:
 https://codeforces.com/contest/2070/problem/A
+
+problem 2090A:
+https://codeforces.com/problemset/problem/2090/A
+
+problem 758A:
+https://codeforces.com/problemset/problem/758/A
