@@ -42,3 +42,9 @@ https://codeforces.com/problemset/problem/2090/A
 
 problem 758A:
 https://codeforces.com/problemset/problem/758/A
+
+problem 1593A:
+https://codeforces.com/problemset/problem/1593/A
+
+problem 1328A:
+https://codeforces.com/problemset/problem/1328/A
