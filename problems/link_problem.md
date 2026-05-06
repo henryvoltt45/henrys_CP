@@ -48,3 +48,6 @@ https://codeforces.com/problemset/problem/1593/A
 
 problem 1328A:
 https://codeforces.com/problemset/problem/1328/A
+
+problem 1169A:
+https://codeforces.com/problemset/problem/1169/A
