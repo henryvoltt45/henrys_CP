@@ -51,3 +51,6 @@ https://codeforces.com/problemset/problem/1328/A
 
 problem 1169A:
 https://codeforces.com/problemset/problem/1169/A
+
+OSN-P Type B:
+https://tlx.toki.id/problems/osnp-2025/B
