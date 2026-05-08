@@ -54,3 +54,6 @@ https://codeforces.com/problemset/problem/1169/A
 
 OSN-P Type B:
 https://tlx.toki.id/problems/osnp-2025/B
+
+problem 746:
+https://codeforces.com/problemset/problem/746/A
