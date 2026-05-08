@@ -57,3 +57,6 @@ https://tlx.toki.id/problems/osnp-2025/B
 
 problem 746:
 https://codeforces.com/problemset/problem/746/A
+
+problem 1077A:
+https://codeforces.com/problemset/problem/1077/A
