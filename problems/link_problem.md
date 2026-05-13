@@ -60,3 +60,6 @@ https://codeforces.com/problemset/problem/746/A
 
 problem 1077A:
 https://codeforces.com/problemset/problem/1077/A
+
+problem 1345A:
+https://codeforces.com/problemset/problem/1345/A
