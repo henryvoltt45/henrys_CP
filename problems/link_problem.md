@@ -66,3 +66,6 @@ https://codeforces.com/problemset/problem/1345/A
 
 problem 1877A:
 https://codeforces.com/problemset/problem/1877/A
+
+problem 2171A:
+https://codeforces.com/problemset/problem/2171/A
