@@ -75,3 +75,6 @@ https://codeforces.com/contest/1255/problem/A
 
 problem 1725A:
 https://codeforces.com/problemset/problem/1725/A
+
+problem 2166B:
+https://codeforces.com/contest/2166/problem/B

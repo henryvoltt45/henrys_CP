@@ -9,10 +9,10 @@ int main() {
         long long a, b, n;
         cin >> a >> b >> n;
 
-        long long k = a / b;
-        long long ans = (n + k) / (k + 1);
-
-        cout << ans << endl;
+        if (b * n <= a || b >= a) {
+            cout << "1" << endl;
+        } else {
+            cout << "2" << endl;
+        }
     }
-    return 0;
 }
