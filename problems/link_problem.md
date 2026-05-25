@@ -78,3 +78,6 @@ https://codeforces.com/problemset/problem/1725/A
 
 problem 2166B:
 https://codeforces.com/contest/2166/problem/B
+
+problem 2060A:
+https://codeforces.com/problemset/problem/2060/A
