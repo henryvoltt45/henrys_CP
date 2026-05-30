@@ -84,3 +84,6 @@ https://codeforces.com/problemset/problem/2060/A
 
 problem 1560B:
 https://codeforces.com/problemset/problem/1560/B
+
+problem 2194:
+https://codeforces.com/problemset/problem/2194/A
